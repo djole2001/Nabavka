@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/13 23:37:44.000.337,=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 00:01:37.000.304,=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 12:59:53.000.353,=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 13:00:03.000.487,=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/14 13:01:08.000.959,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.pas</Transaction>
+    <Transaction>2022/04/14 13:01:08.000.959,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.dfm</Transaction>
+    <Transaction>2022/04/14 13:01:40.000.180,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.pas</Transaction>
+    <Transaction>2022/04/14 13:01:40.000.180,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.dfm</Transaction>
+    <Transaction>2022/04/14 13:31:48.000.936,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.pas=D:\AS2022-Nabavka\formMain_u.pas</Transaction>
+    <Transaction>2022/04/14 13:31:48.000.936,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.dfm=D:\AS2022-Nabavka\formMain_u.dfm</Transaction>
+    <Transaction>2022/04/14 13:31:55.000.197,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.pas=D:\AS2022-Nabavka\formIntro_u.pas</Transaction>
+    <Transaction>2022/04/14 13:31:55.000.197,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.dfm=D:\AS2022-Nabavka\formIntro_u.dfm</Transaction>
+    <Transaction>2022/04/14 13:33:09.000.043,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\AS2022-Nabavka\Login_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
