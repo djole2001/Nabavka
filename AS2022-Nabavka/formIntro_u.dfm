@@ -904,7 +904,7 @@ object formIntro: TformIntro
       75E93D93D93D9782F05E0BC11D91D91D92B1275310F7D63683FF002D81E52DB8
       F4B3727183B1C260E481E480360FFED87FFFD9}
     Stretch = True
-    ExplicitHeight = 233
+    ExplicitLeft = -8
   end
   object edtUser: TEdit
     Left = 376
@@ -912,7 +912,7 @@ object formIntro: TformIntro
     Width = 121
     Height = 21
     TabOrder = 0
-    Text = 'edtUser'
+    TextHint = 'unesite username'
   end
   object edtPassword: TEdit
     Left = 376
@@ -921,7 +921,7 @@ object formIntro: TformIntro
     Height = 21
     PasswordChar = '*'
     TabOrder = 1
-    Text = 'edtPassword'
+    TextHint = 'unesite password'
   end
   object Login: TButton
     Left = 392
@@ -939,5 +939,6 @@ object formIntro: TformIntro
     Height = 25
     Caption = 'Cancel'
     TabOrder = 3
+    OnClick = CancelClick
   end
 end

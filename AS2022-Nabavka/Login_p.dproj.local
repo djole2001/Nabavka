@@ -5,14 +5,37 @@
     <Transaction>2022/04/14 00:01:37.000.304,=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/04/14 12:59:53.000.353,=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2022/04/14 13:00:03.000.487,=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/04/14 13:01:08.000.959,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.pas</Transaction>
-    <Transaction>2022/04/14 13:01:08.000.959,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.dfm</Transaction>
-    <Transaction>2022/04/14 13:01:40.000.180,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.pas</Transaction>
-    <Transaction>2022/04/14 13:01:40.000.180,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.dfm</Transaction>
-    <Transaction>2022/04/14 13:31:48.000.936,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.pas=D:\AS2022-Nabavka\formMain_u.pas</Transaction>
-    <Transaction>2022/04/14 13:31:48.000.936,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.dfm=D:\AS2022-Nabavka\formMain_u.dfm</Transaction>
-    <Transaction>2022/04/14 13:31:55.000.197,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.pas=D:\AS2022-Nabavka\formIntro_u.pas</Transaction>
-    <Transaction>2022/04/14 13:31:55.000.197,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.dfm=D:\AS2022-Nabavka\formIntro_u.dfm</Transaction>
-    <Transaction>2022/04/14 13:33:09.000.043,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\AS2022-Nabavka\Login_p.dproj</Transaction>
+    <Transaction>2022/04/14 13:01:08.000.959,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/14 13:01:08.000.959,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 13:01:40.000.180,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/04/14 13:01:40.000.180,C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/04/14 13:31:48.000.936,D:\AS2022-Nabavka\formMain_u.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.pas</Transaction>
+    <Transaction>2022/04/14 13:31:48.000.936,D:\AS2022-Nabavka\formMain_u.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formMain_u.dfm</Transaction>
+    <Transaction>2022/04/14 13:31:55.000.197,D:\AS2022-Nabavka\formIntro_u.pas=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.pas</Transaction>
+    <Transaction>2022/04/14 13:31:55.000.197,D:\AS2022-Nabavka\formIntro_u.dfm=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\formIntro_u.dfm</Transaction>
+    <Transaction>2022/04/14 13:33:09.000.043,D:\AS2022-Nabavka\Login_p.dproj=C:\Users\urke1\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/12 20:17:52.000.740,=D:\AS2022-Nabavka\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 20:18:49.000.081,D:\AS2022-Nabavka\frmNalog_u.dfm=D:\AS2022-Nabavka\Unit1.dfm</Transaction>
+    <Transaction>2022/05/12 20:18:49.000.081,D:\AS2022-Nabavka\frmNalog_u.pas=D:\AS2022-Nabavka\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 20:38:21.000.769,=D:\AS2022-Nabavka\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 20:39:21.000.615,D:\AS2022-Nabavka\formDobavljaci_u.pas=D:\AS2022-Nabavka\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 20:39:21.000.615,D:\AS2022-Nabavka\formDobavljaci_u.dfm=D:\AS2022-Nabavka\Unit1.dfm</Transaction>
+    <Transaction>2022/05/12 21:50:38.000.078,=D:\AS2022-Nabavka\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 21:51:24.000.749,D:\AS2022-Nabavka\formArtikli_u.pas=D:\AS2022-Nabavka\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 21:51:24.000.749,D:\AS2022-Nabavka\formArtikli_u.dfm=D:\AS2022-Nabavka\Unit1.dfm</Transaction>
+    <Transaction>2022/05/12 22:04:22.000.980,D:\AS2022-Nabavka\formArtikli_u.pas=</Transaction>
+    <Transaction>2022/06/01 21:36:32.000.804,=C:\Users\urke1\Desktop\AS2022-Nabavka vrata\AS2022-Nabavka\Unit1.pas</Transaction>
   </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="formDobavljaci_u.pas"/>
+    <File Path="formDobavljaci_u.dfm"/>
+    <File Path="formIntro_u.pas"/>
+    <File Path="formIntro_u.dfm"/>
+    <File Path="formMain_u.pas"/>
+    <File Path="formMain_u.dfm"/>
+    <File Path="frmNalog_u.pas"/>
+    <File Path="frmNalog_u.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+  </ProjectSortOrder>
 </BorlandProject>

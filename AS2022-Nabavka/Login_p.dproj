@@ -108,6 +108,19 @@
             <Form>formIntro</Form>
             <FormType>dfm</FormType>
         </DCCReference>
+        <DCCReference Include="frmNalog_u.pas">
+            <Form>frmNalog</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="formDobavljaci_u.pas">
+            <Form>formDobavljaci</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Unit1.pas">
+            <Form>DataModule1</Form>
+            <FormType>dfm</FormType>
+            <DesignClass>TDataModule</DesignClass>
+        </DCCReference>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
